@@ -1,5 +1,5 @@
 import qrcode
 
-img = qrcode.make('https://youtube.com/shorts/zie0FY75d8c?feature=share')
+img = qrcode.make('https://github.com/')
   
 img.save("myqr.png")
